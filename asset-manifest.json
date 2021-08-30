@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ulbi-blog/static/css/main.42aa0169.chunk.css",
+    "main.js": "/ulbi-blog/static/js/main.62fb9bf6.chunk.js",
+    "main.js.map": "/ulbi-blog/static/js/main.62fb9bf6.chunk.js.map",
+    "runtime-main.js": "/ulbi-blog/static/js/runtime-main.ce2ff5de.js",
+    "runtime-main.js.map": "/ulbi-blog/static/js/runtime-main.ce2ff5de.js.map",
+    "static/js/2.2a67697d.chunk.js": "/ulbi-blog/static/js/2.2a67697d.chunk.js",
+    "static/js/2.2a67697d.chunk.js.map": "/ulbi-blog/static/js/2.2a67697d.chunk.js.map",
+    "index.html": "/ulbi-blog/index.html",
+    "static/css/main.42aa0169.chunk.css.map": "/ulbi-blog/static/css/main.42aa0169.chunk.css.map",
+    "static/js/2.2a67697d.chunk.js.LICENSE.txt": "/ulbi-blog/static/js/2.2a67697d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce2ff5de.js",
+    "static/js/2.2a67697d.chunk.js",
+    "static/css/main.42aa0169.chunk.css",
+    "static/js/main.62fb9bf6.chunk.js"
+  ]
+}
